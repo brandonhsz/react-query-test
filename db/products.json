@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "silla",
+      "description": "sillita",
+      "price": 1000,
+      "inStock": true
+    },
+    {
+      "id": 2,
+      "name": "mesa",
+      "description": "mesita",
+      "price": 2000,
+      "inStock": true
+    },
+    {
+      "id": 3,
+      "name": "sillon",
+      "description": "silloncito",
+      "price": 3000,
+      "inStock": true
+    }
+  ]
+}
